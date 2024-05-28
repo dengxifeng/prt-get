@@ -1,6 +1,7 @@
 Installing prt-get
 ------------------
 Installing prt-get is just a matter of
+autoreconf --install
 ./configure 
 make 
 make install
